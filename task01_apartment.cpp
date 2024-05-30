@@ -7,7 +7,7 @@ int main() {
 
     std::string surnames[NUM_FLATS];
 
-    std::cout << "Enter the names of " << NUM_FLATS << " flats:" << std::endl;
+    std::cout << "Enter Alexey " << NUM_FLATS << " flats:" << std::endl;
     for (int i = 0; i < NUM_FLATS; ++i) {
         std::cin >> surnames[i]; 
     }
